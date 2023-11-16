@@ -1,0 +1,51 @@
+body{
+    background-color: #133e2b;
+    /*Color de la letra*/
+    color: #caa6a3;
+    /*Google fonts*/
+    font-family: 'Fira Sans', sans-serif;
+    
+}
+/*html color code*/
+h1{
+    color: #d2d88e;
+    font-family: 'Pacifico', cursive;
+    /*margin-left: 550px;
+    margin-bottom: 50px;*/
+}
+h3{
+    color:rgba(250, 225, 215, 0.788);
+    margin-left: 20px;
+}
+p{
+    color: #d2d88e;
+}
+/* formato de imagenes*/
+img{
+    width: 450px;
+    border-style:outset;
+    border-width: 10px;
+    border-color: azure;
+}
+
+.img1 {
+    margin-top: 30px;
+    margin-left: 450px;
+    margin-bottom: 30px;
+}
+.img2 {
+    margin-top: 10px;
+    margin-left: 180px;
+}
+.img3 {
+    height: 300px;
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+footer{
+    background-color:#d2d88e;
+}
+small{
+    color:#133e2b;
+}
